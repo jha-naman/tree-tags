@@ -1,3 +1,5 @@
+## Archived due to shift in focus to the Rust based [treetags](https://github.com/jha-naman/treetags). Use that instead.
+
 # TreeTags
 
 Generate [ctags](https://ctags.io) compatible tag file for your code. Powered by [tree-sitter](https://tree-sitter.github.io/tree-sitter/).
